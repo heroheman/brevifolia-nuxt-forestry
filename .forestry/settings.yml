@@ -24,6 +24,8 @@ sections:
 - type: document
   path: content/data/config.json
   label: Site Info
+- type: heading
+  label: test
 upload_dir: static
 public_path: ''
 front_matter_path: ''
